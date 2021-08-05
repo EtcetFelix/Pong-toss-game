@@ -1,0 +1,12 @@
+
+Images may take a few seconds to load. 
+
+
+Game instructions:
+Your drinking a cup of cheap beer when someone challenges you to College Pong! (dumb name I just invented)
+The goal of the game is to eliminate all of the opponents cups before they eliminate yours. 
+When it is your turn, you can hold down on the screen and wait for the power bar (should be next to the mouse) to go up. 
+The higher the bar, the more power. Release to throw the ball.
+If you hit one of the opponent's cups you can go again. 
+If the opponent knocks down all your cups, you lose.
+Don't be distracted by the dancing people around you!
